@@ -4,4 +4,5 @@
 
 git add -A
 git commit -m ["a"]
-git push origin master
+::git push origin main
+git push
